@@ -201,3 +201,12 @@ footer {
     padding: 5px;
     font-weight: bold;
 }
+
+footer > p > a{
+    text-decoration: none;
+    color: var(--color0);
+}
+
+footer > p > a:hover {
+    color: var(--color2);
+}
